@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "crocks": "*",
+    "crocks": "0.12.4",
     "daggy": "^1.4.0",
     "laravel-mix": "^5.0.5",
     "tailwindcss": "^1.8.10"
